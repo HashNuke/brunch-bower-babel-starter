@@ -8,5 +8,5 @@ Extracted it out so that I can use it as a skeleton url.
 
 ```
 brunch new http://github.com/HashNuke/brunch-0-starter
-npm install --save-dev brunch javascript-brunch sass-brunch bower
+npm install --save-dev brunch bower babel javascript-brunch sass-brunch babel-brunch
 ```
