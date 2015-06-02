@@ -1,8 +1,16 @@
-# Brunch 0-starter (extracted skeleton)
+# brunch-bower-babel-starter
 
-This repo is the 0-starter mentioned in the [Brunch guide](https://github.com/brunch/brunch-guide/blob/master/content/en/chapter04-starting-from-scratch.md).
+This is a Brunch skeleton repo for Brunch+Bower+Babel.
 
-Extracted it out so that I can use it as a skeleton url.
+I took the 0-starter mentioned in the [Brunch guide](https://github.com/brunch/brunch-guide/blob/master/content/en/chapter04-starting-from-scratch.md) and improved upon it for personal use.
+
+## Install
+
+Install brunch & bower
+
+```
+npm install -g bower brunch
+```
 
 ## Usage
 
