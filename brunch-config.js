@@ -3,13 +3,13 @@ exports.config = {
   files: {
     javascripts: {
       joinTo: {
-        'javascripts/vendor.js': /^vendor/,
-        'javascripts/components.js': /^bower_components/,
-        'javascripts/app.js': /^app/
+        'vendor.js': /^vendor/,
+        'components.js': /^bower_components/,
+        'app.js': /^app/
       }
     },
     stylesheets: {
-      joinTo: 'stylesheets/app.css'
+      joinTo: 'app.css'
     }
   },
 
