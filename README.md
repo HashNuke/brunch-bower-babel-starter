@@ -17,5 +17,5 @@ npm install -g bower brunch
 ```
 brunch new http://github.com/HashNuke/brunch-0-starter path/to/new-project-dir
 cd new-project-dir
-npm install --save-dev brunch bower babel javascript-brunch sass-brunch babel-brunch
+npm install --save brunch bower babel javascript-brunch sass-brunch babel-brunch
 ```
